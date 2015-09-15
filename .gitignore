@@ -1,0 +1,7 @@
+node_modules
+.idea
+nbproject
+.svn
+.project
+*.log
+/test
